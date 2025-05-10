@@ -1,5 +1,5 @@
 """
-Script for the comparative experiment of COPP, COPP-RS and PACOPP.
+Main Script for the comparative experiment of COPP, COPP-RS and PACOPP.
 """
 
 import torch
